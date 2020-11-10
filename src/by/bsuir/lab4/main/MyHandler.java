@@ -25,7 +25,6 @@ public class MyHandler extends DefaultHandler {
             instance = new MyHandler();     //создать новый объект
         }
         return instance;                    // вернуть ранее созданный объект
-
     }
 
     @Override

@@ -17,4 +17,12 @@
         <session>60</session>
         <price name="rub">9</price>
     </salon>
+    <salon>
+        <name>Beauty</name>
+        <country>Belarus</country>
+        <address>Tolstogo 123</address>
+        <services>hair style</services>
+        <session>50</session>
+        <price name="rub">10</price>
+    </salon>
 </beautySalon>

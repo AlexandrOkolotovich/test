@@ -39,9 +39,7 @@ public class Main {
                     "; Сервисы: " + s.services +
                     "; Длительность: " + s.session +
                     "; Цена: " + s.price + " " +s.val);
-
         }
-
 
     }
 }
