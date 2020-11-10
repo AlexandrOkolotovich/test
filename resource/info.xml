@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<beautySalon>
+    <salon>
+        <name>Skazka</name>
+        <country>Belarus</country>
+        <address>Kirilla Tyrovskogo 12</address>
+        <services>express styling</services>
+        <session>40</session>
+        <price name="rub">45</price>
+    </salon>
+    <salon>
+        <name>Salon Krasoty</name>
+        <country>Belarus</country>
+        <address>Kolosa 25</address>
+        <services>hair style</services>
+        <session>60</session>
+        <price name="rub">9</price>
+    </salon>
+</beautySalon>
